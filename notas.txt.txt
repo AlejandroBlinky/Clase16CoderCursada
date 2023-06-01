@@ -1,0 +1,1 @@
+git init : comando para inicializar git en nuestro proyecto
